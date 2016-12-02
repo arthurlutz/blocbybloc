@@ -1,0 +1,2283 @@
+OBJECT OF THE GAME
+
+In Bloc by Bloc: The Insurrection Game, players join a vibrant popular rebellion 
+struggling to liberate a city that changes with every game. Each player controls 
+a faction of revolutionaries fighting back against the State. The insurrection is 
+successful if occupations are built in all State districts before time runs out and 
+the military arrives. 
+
+When playing semi-cooperatively: Each player must complete the objectives 
+for one of the options on their agenda card in order to win. Most players will be 
+working cooperatively, trying to win together, but some may secretly be trying 
+to win alone.
+
+When playing fully cooperatively: All players will be working cooperatively and 
+win together if the insurrection is successful.
+
+See page 16 for details on winning and losing the game.
+
+T H E   I N S U R R E C T I O N   G A M E
+
+D ES
+
+IN CL U
+
+10 SCE N A RIO
+Mini Expansion
+
+SETUP 
+4 Players
+
+The setup steps below correspond to 
+the numbers on the opposite page. 
+
+1
+     Create the city: Follow the steps  
+on page 7 to randomly generate a 
+unique city.
+Beginner game: You may option-
+ally choose to skip the random city 
+generation steps on page 7 and simply 
+build the beginner city shown on the 
+opposite page. If you do, make sure to 
+place 1 manifestation card face down 
+underneath each district tile. Make 
+sure to place district tiles so that the 
+word “Liberated” is face down. Put  
+the 3 unused manifestation cards  
+and 5 unused district tiles back in  
+the game box.
+
+2
+     Set up the countdown panel:  
+Place the countdown panel next to the 
+city. Put the countdown marker on the 
+8 nights left space. 
+Beginner game: Put the countdown 
+marker on the 6 nights left space. 
+
+3
+     Set up the loot deck: Shuffle the 
+loot cards and place them face down 
+next to the countdown panel. Make 
+sure there is room for a discard pile. 
+
+4
+     Set up the tokens & dice: Put the 
+loot tokens and barricades in piles 
+within reach of all players. Set the 
+action dice and reaction die next to  
+the city.
+
+3 Players
+
+First time playing?  
+
+Learn the rules by following the  
+steps for the Beginner game.
+
+See page 20 for a complete  
+
+list of components.
+
+5
+     Deploy police to the State districts: 
+Place 1 riot van and 3 riot cops in each 
+State district tile. State districts have 
+white circles.
+Beginner game: Place 1 riot van in 
+each State district tile. If you used the 
+beginner city on the opposite page, 
+place 1 riot van in The Stadium district. 
+Place 3 riot cops next to each riot van. 
+6
+     Set up the police morale panel: 
+Place the police morale panel next 
+to the city and put all remaining riot 
+cops and riot vans in the staging area 
+section of the panel. Put the police 
+morale marker under Timid on the 
+police morale track.
+
+7
+     Set up the police ops deck:  
+Shuffle the police ops cards and place 
+them face down next to the police 
+morale board. Make sure there is room 
+for a discard pile.
+To modify the difficulty:
+• Easy: Remove 2 Paramilitary  
+
+Operations cards from the police  
+ops deck and place them back in  
+the game box.
+
+• Medium: Remove 1 Paramilitary 
+
+Operations card and place it back  
+in the game box.
+
+• Hard: Use all 3 Paramilitary  
+
+Operations cards.
+
+Beginner game: Play on Easy. 
+
+     Randomly assign a faction to 
+8
+each player: Randomly assign each 
+player one of the four factions. Pass 
+out the matching faction mat and 
+corresponding pieces (5 occupations, 
+10 blocs). Place all occupations and 
+blocs in their corresponding locations 
+on each of the faction mats. Give each 
+player 1 cheatsheet. Deal 2 loot cards 
+face down to each player. Players may 
+look at their loot cards.
+
+9
+     Assign agendas: Shuffle the agenda 
+cards and deal 1 to each faction. Put 
+the rest of the agenda cards back in 
+the game box without looking at them. 
+When playing fully cooperatively, do 
+not use the agenda deck. Put the entire 
+deck back in the game box.
+Beginner game: Play fully cooperatively.
+
+10
+     Choose starting districts:  
+Each faction must choose one of their 
+own districts as their starting location 
+by placing their Start occupation in 
+that district’s occupation circle. Each 
+faction must place 1 of their blocs next 
+to their Start occupation. 
+11
+     Determine first faction:  
+Roll to determine which faction goes 
+first. The faction with the highest roll 
+takes the first faction marker and 
+begins the game.
+
+Follow the 4 player setup steps with these changes: After creating the city, 
+replace the Financial District tile with The Stadium district tile, so that there are 
+only 3 State districts in the city. Place 1 riot van in each State district and 1 in The 
+Stadium. Place 3 riot cops next to each riot van. Randomly assign each player one 
+faction. Place pieces for the unused fourth faction back in the game box.
+
+Beginner game for 3 players: Put the 
+countdown marker on the 8 nights left 
+space of the countdown panel.
+
+2 Players
+
+Follow the 4 player setup steps. Each player will play 2 of the four factions.  
+Play fully cooperatively by not using the Agenda deck.
+
+PAGE 2
+
+Fully Cooperative Setup
+
+Do not use the agenda deck. Put the 
+entire deck back in the game box. If the 
+insurrection is successful, all factions 
+win the game.
+
+BLOC BY BLOCBlocs
+
+8
+
+Occupations
+
+Faction Mat
+
+Loot Cards
+
+Countdown Marker
+
+2
+
+Riot Cops
+
+Riot Vans
+
+Countdown Panel
+
+Police Morale Marker
+
+6
+
+Police Morale Panel
+
+3
+
+5
+
+11
+
+First Faction 
+
+Marker
+
+SETUP
+
+9
+
+Agenda Cards
+
+Police Ops 
+Cards
+7
+
+District Tiles
+
+1
+
+Manifestation
+
+Cards
+
+10
+
+MANIFESTATION
+
+4
+
+Barricades
+
+Action Dice
+
+Reaction Die
+
+Loot Tokens
+
+QUICKSTART GUIDE
+
+Read This First! Read the 2 page Quickstart Guide for a brief overview before you 
+dive into the details in the rest of the rulebook. 
+
+Bloc by Bloc is played in a city made up of 25 district tiles connected by streets, 
+highways, and metro stations. Each player controls one of four factions in the 
+city: the Workers, the Neighbors, the Students, or the Prisoners. All players are 
+referred to as factions. Each faction has a corresponding set of districts in the 
+city. The police and the State are the common enemies of all factions. Occupa-
+tions must be built in all State districts by any combination of factions for the 
+insurrection to be successful. See page 6 for more information about the city.
+
+Bloc by Bloc is played in rounds. Each 
+round is 1 night and each night has 
+2 phases. The Sunset phase is when 
+each faction gets to take its turn. After 
+all factions have taken their turns, the 
+Sunrise phase begins, which is when 
+police attack and factions have a chance 
+to liberate districts. See the cheatsheet 
+for an overview of each night.
+
+PRISONERS
+
+WORKERS
+
+STUDENTS
+
+NEIGHBORS
+
+VS.
+
+STATE
+
+Sunset Overview
+
+During the Sunset phase, each faction 
+takes a turn. Each faction’s turn is 
+made up of 3 steps:
+
+Step 1. Roll Action Dice
+
+Form 1 bloc at your Start occupation 
+by taking 1 bloc from your faction mat 
+and placing it in the same district as 
+your Start occupation. Roll 3-5 action 
+dice (depending on the number of 
+blocs you now have in the city). See 
+your faction mat or page 8 for details.
+
+MINIMUM
+
+6+ BLOCS
+
+9+ BLOCS
+
+ROLL 4ACTION
+3ACTION
+
+ROLL 5ACTION
+
+ROLL
+
+DICE
+
+DICE
+
+DICE
+
+Step 2. Faction Actions 
+
+Use your blocs to take 1 action with 
+each action die you rolled. You can 
+only take actions in districts where 
+you have blocs. You can take the same 
+action multiple times in the same turn 
+and you can take actions in any order. 
+There are 3 types of actions:
+
+• Basic actions: Movement & 
+
+Barricade
+
+• Advanced actions: Loot, Build  
+Occupation & Swap Occupation
+
+• Attack actions: Defeat 1 Riot Cop, 
+
+Kick Out 2 Riot Cops & Attack a  
+Riot Van
+
+PAGE 4
+
+A bloc is considered to be in a clash 
+anytime it is in the same district with a 
+riot van or riot cops. You can only take 
+basic and advanced actions with blocs 
+that are not in a clash and you can only 
+take attack actions with blocs that are 
+in a clash.
+
+A Prisoners bloc in a  
+clash with riot cops
+
+It takes 1 action die to take 1 action. 
+If you rolled 4 action dice, you get to 
+take 4 actions. To take basic actions, 
+you can use a die of any value. To take 
+advanced or attack actions, you must 
+use an action die equal to or greater 
+than the difficulty of the district that 
+you are taking the action in. The 
+district difficulty is the big number is 
+the middle of the tile. If the district’s 
+difficulty is 4, then you must use a die 
+with a value of 4, 5, or 6. See page 6 for 
+more information about district tiles.
+
+When you take riskier actions, you 
+must make a reaction roll to see if 
+the police respond to your action. You 
+must make 1 reaction roll after each 
+advanced action, but you only have to 
+make 1 reaction roll after all consecu-
+tive attack actions in the same clash.
+
+See the cheatsheet or pages 8-11 for 
+a detailed explanation of each action.
+
+Step 3. Police Ops 
+
+Draw 1-3 police ops cards (depending 
+on the police morale) and resolve  
+each card one at a time. See pages 
+12-13 for more information about 
+police ops cards.
+
+In Bloc by Bloc, no player takes on the 
+role of the police. Instead, they are 
+controlled by the police ops deck. All 
+factions will draw from the police ops 
+deck as the final step of their turn. 
+Police ops cards can give orders to 
+advance groups of riot cops around the 
+city, deploy more riot cops or riot vans, 
+reposition riot vans, etc. See page 13 
+for detailed descriptions of each card.
+
+BLOC BY BLOCSunrise Overview
+
+After all factions have taken their turn, 
+the Sunrise phase begins. Sunrise is 
+also made up of 3 steps:
+
+Step 1. Police Repression 
+
+Any blocs or occupations in the same 
+districts as police come under attack 
+at Sunrise. Partially damaged riot vans 
+are fully repaired and all riot vans and 
+riot cops attack blocs and occupations 
+in their districts. Defeated blocs and 
+evicted occupations return to faction 
+mats. See page 14 for a description of 
+how riot vans and riot cops attack.
+
+Step 2. District Liberation 
+
+With a few exceptions, all district tiles 
+have two sides, a repressed side and a 
+liberated side. These districts start out 
+repressed at the beginning of the game 
+and, during the District Liberation 
+step, factions have the opportunity to 
+liberate districts. 
+
+Liberation is not an action that factions 
+can take during their turns, but instead 
+happens automatically during this step 
+if these two conditions are met:
+
+1 The district must have an occupation 
+
+built in it. Districts without an occu-
+pation circle, such as Commercial 
+districts, cannot be liberated.
+
+QUICKSTART
+
+2 The combined total number of blocs 
+from all factions in that district must 
+be equal to or greater than double the 
+district’s difficulty.
+
+There are 3 reasons to liberate 
+districts:
+
+• The district’s difficulty is always 
+
+reduced by 1, making future actions 
+in this district slightly easier.
+
+• The occupation in this district gains 
+its liberated ability, making it much 
+more powerful.
+
+• When a district is liberated, you 
+
+get to draw the manifestation card 
+underneath it, which unleashes a 
+unique event that always benefits the 
+factions.
+
+See page 15 for details on District 
+Liberation and manifestation cards.
+
+Step 3. Next Night? 
+
+Check if any of the endgame conditions 
+(see below) have been met. If so, the 
+game ends immediately. If not, pass 
+the first faction marker to the left, 
+move the countdown marker forward, 
+and begin the next night.
+
+Endgame Overview
+
+The game can end in the Next Night step for any of the following reasons:
+
+• The insurrection is successful: All State districts have occupations built in them 
+
+by any combination of factions.
+
+• Any faction trying to win alone completes their objectives: While every agenda 
+card is unique, a shared requirement for all Vanguardist and Sectarian agendas 
+is building occupations in at least 2 State districts. The Nihilist agenda requires 
+at least 8 shopping centers to be burned.
+
+• Any faction has zero blocs in the city: All factions lose. Ignore agenda cards.
+
+• Time runs out & the military arrives: All factions lose. Ignore agenda cards.
+
+When playing semi-cooperatively: 
+Check to see which factions have 
+completed all objectives for one of the 
+options on their agenda card.
+
+When playing fully cooperatively: 
+All factions win together if the  
+insurrection is successful. 
+
+See page 16 for details on winning and 
+losing the game.
+
+PAGE 5
+
+REFERENCE
+
+District Guide
+
+With a few exceptions, all district tiles have two sides: a 
+repressed side and a liberated side. Districts start out 
+repressed at the beginning of the game. 
+
+During the Sunrise phase of each night, factions have the 
+opportunity to liberate them to gain crucial advantages and 
+a range of important benefits. See page 15 to learn about 
+District Liberation.
+
+REPRESSED SIDE
+
+LIBERATED SIDE
+
+3
+
+2
+
+5
+
+4
+
+1
+
+1
+     Type: There are 8 types of districts: 
+Workers (yellow), Students (purple), 
+Neighbors (green), Prisoners (orange), 
+State (white), Public (gray), Commer-
+cial, and highways.
+2
+     Occupation Circle: The colored 
+circles indicate locations where the 
+faction that matches the district type 
+may build one of their occupations. For 
+example, only the Prisoners can build 
+an occupation in Prisoners districts. 
+Any faction can build occupations in 
+Public and State districts.
+
+3
+     Difficulty: Each district has a diffi-
+culty number that shows how hard it 
+is for factions to take advanced actions 
+and attack actions in that district. 
+Higher numbers are more difficult. 
+The difficulty on the liberated side of a 
+district tile is always 1 less than on its 
+repressed side.
+4
+     Police ID & Letter: Each district has 
+a unique police ID that the police ops 
+deck references to determine police 
+movement and deployment. The pointer 
+below the police ID shows the correct 
+
+edge to use when flipping the district 
+tile after liberating the district, ensuring 
+that the district tile does not change 
+orientation. The letter to the left of the 
+pointer is only used during setup.
+
+5
+     Shopping Center: Shopping carts 
+represent shopping centers, which 
+are locations where factions can loot 
+to draw cards from the loot deck. 
+Commercial districts have multiple 
+shopping centers. Shopping centers 
+never appear on the liberated side of 
+district tiles.
+
+Streets, Highways & Metro
+
+9
+
+6
+
+7
+
+8
+
+     4-Way Street Intersection: The 
+6
+majority of districts have a standard 
+4-way street intersection, giving blocs 
+and riot cops full orthogonal access to 
+and from adjacent districts.
+7
+     3-Way Street Intersection: Some 
+districts have 3-way street inter-
+sections, giving blocs and riot cops 
+orthogonal access to and from 3 
+adjacent districts. The 4th direction is a 
+
+dead end, blocking access to and from 
+that direction. The district blocked by the 
+dead end is not considered adjacent.
+8
+     Highway: Highway districts connect 
+two separate sets of diagonally 
+adjacent districts. The connected 
+districts are considered adjacent. 
+Blocs and riot cops never stop on 
+highways while moving between 
+adjacent districts.
+
+9
+     Metro Station: Blocs may move 
+between two districts without using  
+the streets if both districts contain 
+metro stations. Riot cops never use 
+metro stations.
+
+Edge of the City: All streets and 
+highways ending at the edge of the 5 
+x 5 grid of district tiles are treated as 
+dead ends.
+
+PAGE 6
+
+BLOC BY BLOC
+
+Random City Generator
+
+First time playing? Use the  
+beginner city shown on page 3.
+
+Bloc by Bloc can be played on any 5 x 5 grid of district tiles arranged in any order 
+and orientation as long as all districts are connected by streets or highways. 
+Feel free to use the city generation process detailed below or experiment with 
+creating your own city to play in.
+
+REFERENCE
+
+1. Shuffle and place 25 manifestation 
+cards face down in a 5 x 5 grid: Leave 
+about 1” between each card. Put the 
+rest of the manifestation cards back in 
+the game box.
+
+3. Shuffle each of the 3 district piles: 
+Make sure to shuffle each pile in terms 
+of tile order within the pile while also 
+shuffling the individual orientation of 
+each tile.
+
+MANIFESTATION
+
+Manifestation Cards
+
+2. Sort the district tiles, liberated side 
+face down, into 3 piles by letter: Each 
+district has a letter in a corner next 
+to the police ID. Base game district 
+tiles have the letters A, B, and C. Put 
+all mini expansion district tiles, which 
+have the letter D, and The Stadium 
+district tile, which has the number “3”, 
+back in the game box unless:
+
+• 3 player game: Put the Financial 
+
+District tile back in the game box and 
+add The Stadium district tile into the 
+A pile.
+
+• Mini expansion games: See pages 
+18-19 for modified setup steps for 
+each scenario. Put any of the 4 mini 
+expansion district tiles back in the 
+game box if they are not required for 
+the scenario’s modified setup.
+
+You should now have 25 district tiles 
+separated into A, B, and C piles.
+
+Shuffle the order & the 
+orientation of the tiles
+
+4. Arrange the district tiles on top 
+of the manifestation cards without 
+reorienting each tile to face the same 
+way: Place the top district tile from the 
+A pile on top of the manifestation card 
+in the top left corner of the grid so that 
+the district tile completely covers the 
+manifestation card. 
+
+Do not change the orientation of each 
+district tile as you place it in the grid. 
+Do not reorient the tiles to all face 
+the same way! Make sure the word 
+“Liberated” is face down.
+
+Correct: Shuffled orientation
+
+Incorrect: Reoriented
+
+Next, place the top district tile from 
+the B pile on top of manifestation card 
+directly to the right of the district tile 
+from the A pile that you just placed. 
+
+District Tiles
+
+Finally, place the top district tile from 
+the C pile to the right of the district tile 
+from the B pile that you just placed.
+
+Continue placing district tiles from 
+each of the three piles in ABC order 
+to complete the 5 x 5 grid. When you 
+reach the end of a row, place the next 
+district tile directly below the last 
+district tile you placed to create a 
+zigzag pattern (see below).
+
+The final tile placed in the bottom right 
+corner of the grid should be the last 
+district tile from the A pile. All mani-
+festation cards should be completely 
+covered by the district tiles and there 
+should be about 0.5” between each of 
+the district tiles.
+
+A
+
+A
+
+B
+
+B
+
+C
+
+B
+
+C
+
+C
+
+A
+
+A
+
+C
+
+B
+
+A
+
+C
+
+B
+
+A
+
+A
+
+B
+
+B
+
+C
+
+B
+
+C
+
+C
+
+A
+
+A
+
+Example: Place the district tiles from 
+each of the three piles in a zigzag ABC 
+
+pattern to complete the 5 x 5 grid.
+
+The Highway Overpass mini 
+
+expansion district tile can be used 
+in any game of Bloc by Bloc. During 
+step 2, simply remove one of the 
+other highway districts and place 
+the Highway Overpass in the C 
+
+district pile.
+
+BLOC BY BLOC
+
+PAGE 7
+
+GAMEPLAY: SUNSET
+
+Each round is 1 night. Each night has 2 parts:
+
+Sunset: Each faction takes a turn. Each faction’s turn is 
+made up of 3 steps (see below). The faction with the first 
+faction marker goes first, followed by the faction to their 
+left, and so on in clockwise order.
+
+Sunrise: After all factions have taken their turns, police 
+attack blocs and occupations in the same districts. Then, 
+factions have the opportunity to liberate districts. At the end 
+of Sunrise, the game ends if any of the endgame conditions 
+have been met. See pages 14-15 for Sunrise steps.
+
+Sunset Step 1. Roll Action Dice
+
+At the start of your turn, form 1 bloc at your Start occupation by taking 1 bloc from 
+your faction mat and placing it in the same district as your Start occupation. Then, 
+count the number of blocs you now have in the city. Roll 3-5 action dice (see right) 
+depending on the number of blocs you counted. Each rolled action die is used to 
+take 1 action during your turn. It takes 1 action die to take 1 action. You cannot 
+combine dice to increase their value. If you roll 4 action dice, you can take 4 actions.
+
+Sunset Step 2. Faction Actions
+
+MINIMUM
+
+6+ BLOCS
+
+9+ BLOCS
+
+ROLL 4ACTION
+3ACTION
+
+ROLL 5ACTION
+
+ROLL
+
+DICE
+
+DICE
+
+DICE
+
+For each action die you rolled in step 1, take one of the 
+following actions. You can take the same action multiple 
+times in the same turn. You can take actions in any order. 
+You can only take actions in districts where you have blocs.
+
+Basic Actions: Not in a clash 
+
+To take a basic action, you can use a die of any value.
+
+What is a Clash?
+
+A bloc is considered to be in a clash any time it 
+is in the same district with a riot van or riot cops. 
+You can only take basic and advanced actions 
+with blocs that are not in a clash and you can only 
+take attack actions with blocs that are in a clash.
+
+• Movement
+• Barricade
+
+Advanced Actions: Not in a clash
+
+To take an advanced action, you must use an action die 
+equal to or greater than the difficulty of the district that you 
+are taking the action in. Because advanced actions are risky 
+actions, you must make a reaction roll after taking each 
+advanced action.
+
+• Loot
+• Build Occupation
+• Swap Occupation
+
+Attack Actions: Only in a clash
+
+To take an attack action, you must use an action die equal 
+to or greater than the difficulty of the district that you are 
+taking the action in. You only have to make 1 reaction roll 
+after all consecutive attack actions in the same clash.  
+Each bloc can only attack once per clash each night.
+
+• Defeat 1 Riot Cop
+• Kick Out 2 Riot Cops
+• Attack a Riot Van
+
+What is a Reaction Roll?
+
+When you take riskier actions, you must roll the reaction die 
+to see if the police respond to your action. You must make 1 
+reaction roll after each advanced action, but you only have 
+to make 1 reaction roll after all consecutive attack actions in 
+the same clash.
+
+• If you roll a 1: The cops are called! Immediately take 1 riot 
+cop from the staging area and place it in the district where 
+you took the action. If there are no more riot cops in the 
+staging area, nothing happens.
+
+• If you roll a 2: Immediately draw and resolve 1 
+
+police ops card. See pages 12-13 for information 
+about police ops cards.
+
+• If you roll a 3, 4, or 5: Nothing happens.
+
+• If you roll a 6: If you have built the People’s Kitchen occu-
+
+pation, then you get an extra action. Otherwise, nothing 
+happens. See page 17 for a full description of the People’s 
+Kitchen occupation.
+
+PAGE 8
+
+BLOC BY BLOC
+
+SUNSET
+
+Basic Action: Movement
+
+Movement allows you to reposition your blocs to different 
+districts in the city. To move blocs, use an action die of any 
+value. Choose one or more of your blocs that are not in a 
+clash. You may move any distance between two districts using 
+any combination of streets, highways, and metro stations. 
+There is no restriction on the number of districts your blocs 
+can move through with one action.
+
+What is a Mob? 
+
+Any time 2 or more blocs from the same faction are in a 
+district together they are considered a mob. You may move all 
+blocs in a mob using only 1 action die if all of the blocs start 
+in the same district and end in another district together.
+
+Blocs cannot:
+
+• Move through districts that contain police
+• Move out of districts that contain police
+• Move through dead ends or off the edge of the city
+• Move diagonally except by using highways
+
+Blocs can:
+
+• Move through barricades
+• Use any combination of streets, highways, and metro 
+
+stations in 1 movement action
+
+• End a movement action in districts that contain police
+
+start
+
+end
+
+start
+
+end
+
+Example: The Workers faction takes 1 basic action 
+
+to move a mob of 4 blocs to another district.
+
+Example: The Prisoners faction takes 1 basic action to move a mob of 3 
+blocs across the city using a combination of streets and metro stations.
+
+Basic Action: Barricade
+
+Barricades temporarily stop riot cops from moving into the 
+district they are built around. See page 13 for information 
+on how barricades stop riot cop movement. 
+
+To barricade, use a die of any value. Choose a district where 
+you have one or more blocs that are not in a clash. Place 
+1 barricade between the district and any adjacent district. 
+Each connection between two adjacent districts  
+can hold a maximum of 3 barricades.
+
+1 Barricade
+Stops 1  
+riot cop
+
+2 Barricades
+
+Stops half of riot  
+cops (round down)
+
+3 Barricades
+Stops all  
+riot cops
+
+Example: The Neighbors faction takes 2 basic actions to 
+build 2 barricades around a district using one of their blocs.
+
+Example: The Students faction takes 3 basic actions to build 3 
+barricades between different districts using one of their blocs.
+
+Exchanging Loot 
+
+During your turn, you can gift or trade loot cards with any other faction that has 
+blocs in the same district as your blocs. This does not count as an action and an 
+action die is not required.
+
+PAGE 9
+
+BLOC BY BLOCSUNSET
+
+Advanced Action: Loot
+
+Loot gives you a range of different 
+one-time bonuses. Most loot cards 
+can only be used during your turn, 
+while others may only be used during 
+Police Repression or District Liber-
+ation. Each card specifies when you 
+can play it. There is no limit to the 
+number of loot cards you can have 
+in your hand. You cannot reveal your 
+hand to other factions, but you may 
+tell them (truthfully or not) what you 
+
+have. When the last loot card has 
+been drawn, shuffle the discard pile to 
+create a new deck.
+
+To loot, choose a district that has a 
+shopping center and one or more 
+of your blocs that are not in a clash. 
+Use a die equal to or greater than the 
+district’s difficulty and draw 1 loot 
+card. Place the loot token and make a 
+reaction roll.
+
+Unlooted  
+Shopping 
+Center
+
+1st Loot  
+Action: 
+Graffiti
+
+2nd Loot  
+Action: 
+Burn
+
+Advanced Action: Build Occupation
+
+Shopping centers can be looted twice:
+
+1st - Graffiti: Place a loot token graffiti 
+side up on the shopping center.
+
+2nd - Burn: Flip the loot token so the 
+burn side is face up. Burned shopping 
+centers can no longer be looted.
+
+You may use multiple Molotovs loot 
+
+cards in the same attack action.
+
+You cannot use the Medic Kit loot 
+
+card if you do not have any  
+
+occupations in the city.
+
+Using a Fireworks loot card does 
+not count as an attack action and 
+
+requires its own reaction roll.
+
+Each occupation you build in the city gives you an ongoing ability that you can use 
+each turn. You can use an occupation’s ability as soon as it has been built, including 
+in the same turn. See page 17 for detailed descriptions of each occupation ability.
+
+To build an occupation, choose a district that has an occupation circle and one or 
+more of your blocs that are not in a clash. Use an action die equal to or greater 
+than that district’s difficulty. Select an occupation of your choice from your faction 
+mat, place it in that district’s occupation circle, and make a reaction roll.
+
+You cannot: Build occupations  
+in districts corresponding to  
+other factions.
+
+You can: Build occupations in districts 
+corresponding to your faction, Public 
+districts, and State districts.
+
+Advanced Action: Swap Occupation
+
+Example: The Workers faction takes 1 
+
+advanced action to build 1 occupation in a 
+Workers district using one of their blocs.
+
+In addition to building new occupations, 
+you may also swap out an existing occu-
+pation with one from your faction mat. 
+You may swap out another faction’s 
+occupation in State and Public districts.
+
+To swap an occupation, choose one 
+of your faction’s districts, a Public 
+district, or a State district that has an 
+occupation built in it and one or more 
+of your blocs that are not in a clash. 
+Use an action die equal to or greater 
+than that district’s difficulty. Remove 
+the occupation currently in the district, 
+replace it with one of your choice 
+from your faction mat, and make a 
+reaction roll. The removed occupation 
+is returned to the faction mat.
+
+Example: The Neighbors faction takes 1 
+advanced action to swap their Comrade 
+
+Cafe for their People’s Kitchen in a  
+
+Example: The Students faction takes 1 
+advanced action to swap out a Prisoners 
+occupation for one of their own in a Public 
+
+Neighbors district using one of their blocs.
+
+district using one of their blocs.
+
+PAGE 10
+
+BLOC BY BLOC
+
+Stop an Advanced Action
+
+The faction with the most blocs in a district may stop other factions on 
+their turns from taking advanced actions in that district. In other words, 
+if you have the most blocs in a district, you may stop another faction from 
+looting, building occupations, or swapping occupations in that district.
+
+If multiple factions are tied for  
+the most blocs in a district, then  
+no faction can stop other factions 
+
+from taking advanced actions.
+
+SUNSET
+
+Attack Actions
+
+To take an attack action, choose a district with one or more 
+of your blocs that are in a clash. Use an action die equal 
+to or greater than that district’s difficulty. Unlike advanced 
+actions, you only have to make 1 reaction roll after all 
+consecutive attack actions in the same clash.
+
+ 
+
+Defeat 1 Riot Cop
+
+Each bloc can only attack once per clash each night. If 
+you want to make multiple attacks in the same clash, you 
+must have enough blocs in the clash to make all the attack 
+actions. If you want to defeat 3 riot cops, you must have 3 
+blocs in the clash and 3 action dice equal to or greater than 
+the district’s difficulty.
+
+Take an attack action to defeat 1 riot cop and send it back to the staging area.
+
+Kick Out 2 Riot Cops
+
+Take an attack action to kick out 2 riot 
+cops into an adjacent district. If riot 
+cops are kicked out through barricades, 
+the barricades are dismantled. Riot 
+cops can be kicked out into an adjacent 
+district connected by a highway.
+
+Attack a Riot Van
+
+Example: The Prisoners faction takes 1 
+attack action with 1 bloc to defeat 1 riot 
+cop and send it back to the staging area.
+
+Example: The Students faction 
+takes 1 attack action to kick out 2 
+riot cops into an adjacent district.
+
+Riot vans are more powerful than riot cops. A riot van takes 3 attacks in the same 
+night to be destroyed. To mark when a riot van has been attacked and is damaged, 
+flip it on its side after the first attack and flip it upside down after the second 
+attack. After the third attack, the riot van is destroyed. Put destroyed riot vans 
+back in the game box.
+
+A riot van
+
+1st Attack: 
+flip on side
+
+2nd Attack: 
+
+flip over
+
+3rd Attack: 
+
+destroy!
+
+Example: The Workers faction takes 2 
+attack actions with 2 different blocs to 
+defeat 2 riot cops and send them both 
+
+back to the staging area. A third riot cop in 
+the clash cannot be defeated because the 
+Workers only have 2 blocs in the district.
+
+If a district has a riot van and riot cops, you may choose 
+
+whether to attack the riot van or the riot cops. 
+
+Damaged but not destroyed riot vans do not respond to 
+orders from police ops cards for the remainder of that 
+night. See page 12 for information about police ops cards.
+
+PAGE 11
+
+BLOC BY BLOCSUNSET
+
+Sunset Step 3. Police Ops
+
+After taking all of your actions, draw 
+1-3 police ops cards. Check the police 
+morale track to determine how many 
+cards you must draw. Read each 
+card out loud one at a time and place 
+resolved cards face up in the discard 
+pile next to the police ops deck. When 
+the last police ops card has been 
+drawn, shuffle the discard pile to 
+create a new deck.
+
+How Does Police Morale Increase? 
+
+When you draw a police ops card that 
+says +1 police morale, immediately 
+move the police morale marker forward 
+1 step on the police morale track. 
+Increases in police morale during the 
+Police Ops step only take effect on the 
+next faction’s turn. You do not need to 
+draw more cards in response. 
+
+Riot Cop Movement
+
+The majority of police ops  
+cards order groups of riot  
+cops to advance into adjacent  
+districts. See the opposite  
+page for detailed descriptions  
+of the other police ops cards.
+
+How Do Riot Cops Move?
+
+Groups of riot cops 
+
+follow orders to move into 
+adjacent districts & leave 1 
+
+solo riot cop behind
+
+Solo riot cops  
+hold position
+
+Riot cops in clashes  
+
+hold position
+
+Riot vans  
+hold position
+
+What is ID Priority? 
+
+• 2 or more riot cops in the same district are considered 
+
+a group. 1 riot cop by itself in a district (not counting riot 
+vans) is considered solo.
+
+• When a group of riot cops moves into an adjacent district, 
+
+they always leave 1 solo riot cop behind.
+
+• Riot cops always move to adjacent districts, even if they are 
+
+already in a district of the type specified on the police ops 
+card.
+
+• Solo riot cops hold their positions and do not move.
+• Riot cops in clashes hold their positions and do not move.
+• Riot cop movement cards do not apply to riot vans.
+
+R I O T   C O P   M O V E M E N T
+
+RIOT COP MOVEMENT
+
+Each district has a unique police ID. If a group of riot cops 
+is adjacent to 2 or more districts of the type specified on the 
+police ops card, then use the police ID priority as a tiebreaker 
+to determine whether the riot cops move into the highest or 
+lowest police ID district.
+
+All groups of riot cops 
+advance into adjacent
+
+STATE
+
+DISTRICTS
+
+R I O T   C O P   M O V E M E N T
+
+Riot cops in clashes  
+
+A l l   g r o u p s   o f   r i o t   c o p s  
+do not advance
+i n t o   a d j a c e n t
+a d v a n c e  
+S T A T E
+D I S T R I C T S
+d o   n o t   a d v a n c e
+
+i n   c l a s h e s  
+
+R i o t   c o p s  
+
+ 
+
+A l l   g r o u p s   o f   r i o t   c o p s  
+i n t o   a d j a c e n t
+a d v a n c e  
+W O R K E R S
+D I S T R I C T S
+d o   n o t   a d v a n c e
+
+i n   c l a s h e s  
+
+R i o t   c o p s  
+
+ 
+
+ID
+
+Priority: HIGHEST
+I D
+
+P r i o r i t y :   H I G H E S T
+
+P r i o r i t y :   H I G H E S T
+
+I D
+
+Example: A group of 2 riot cops is in a Commercial district 
+when a police ops card is drawn ordering groups of riot cops 
+to advance into adjacent Workers districts. 1 riot cop advances 
+
+into the Workers district and 1 solo riot cop is left behind.
+
+Example: A group of 4 riot cops is in a Public district when a 
+
+police ops card is drawn ordering groups of riot cops to advance 
+into adjacent State districts. Because there are 2 adjacent State 
+
+districts, the riot cops must follow the police ID priority. The 
+police ops card specifies that the police ID priority is Highest. 
+
+The group of riot cops moves into the adjacent State district with 
+
+the highest police ID and 1 solo riot cop is left behind.
+
+Riot cops move to adjacent districts 
+connected by streets and highways, 
+
+but never use metro stations.
+
+If a district is separated by a  
+dead end, the riot cops do not 
+
+move into it.
+
+If an adjacent district is connected 
+by 2 different highway districts, riot 
+cops always use the highway with 
+
+the fewest barricades.
+
+PAGE 12
+
+BLOC BY BLOCBarricades Stop Riot Cop Movement
+
+When riot cops are ordered by a police ops card to advance 
+into an adjacent district, but there are barricades blocking 
+the way, some or all of the riot cops are stopped from 
+moving. To determine how many riot cops are stopped from 
+moving and how many advance, count the number of riot 
+cops in the group, but do not count the 1 solo riot cop that 
+
+is always left behind. Whenever any number of barricades 
+stops 1 or more riot cops from moving, all the barricades are 
+dismantled and return to the barricade pile. If 3 barricades 
+stop 1 riot cop from moving, all 3 barricades are dismantled. 
+Stopped riot cops hold their position. They do not return to 
+the staging area.
+
+SUNSET
+
+1 Barricade
+
+2 Barricades
+
+Stops 1 riot cop. The rest of the group 
+advances into the specified district.
+
+Stop half of riot cops (round down). 
+
+The rest of the group advances into the 
+
+3 Barricades
+
+Stop all riot cops.
+
+specified district.
+
+Example: A group of 4 riot cops is  
+ordered to move into an adjacent 
+
+Prisoners district. 1 solo riot cop is left 
+behind, 1 riot cop is stopped from moving 
+by 1 barricade, and the other 2 riot cops 
+advance into the Prisoners district. The 
+
+barricade is dismantled.
+
+Example: A group of 6 riot cops is  
+ordered to move into an adjacent 
+
+Neighbors district. 1 solo riot cop is left 
+
+behind, 2 riot cops are stopped from 
+
+moving by 2 barricades (half of 5, rounded 
+down), and the other 3 riot cops advance 
+into the Neighbors district. Both barri-
+
+cades are dismantled.
+
+Example: A group of 5 riot cops is  
+
+ordered to move into an adjacent Students 
+district. 1 solo riot cop is left behind and 
+the other 4 riot cops are stopped from 
+moving by 3 barricades. All 3 barricades 
+
+are dismantled.
+
+REFERENCE
+
+Types of Police Ops Cards
+
+Riot Cop Movement: All groups of riot 
+cops (not riot vans) throughout the city 
+move into adjacent districts. See page 
+12 for details.
+
+Heavy Reinforcements & Light  
+Reinforcements: Each riot van deploys 
+1 or 2 riot cops from the staging area 
+into the district where it is located. If 
+there are not enough riot cops in the 
+staging area to deploy the specified 
+number of riot cops to all riot vans, 
+then check the police ID priority 
+specified at the bottom of the police 
+ops card. Deploy riot cops starting with 
+the riot van with the highest or lowest 
+police ID as specified on the card.
+
+Strategic Rotation: Find all districts 
+with a group of 7 or more riot cops. 
+Leave 6 riot cops in the district and 
+send the rest back to the staging area. 
+Districts with 6 or fewer riot cops are 
+not affected.
+
+Emergency Reinforcements: If there 
+are fewer than 4 riot vans in the city, 
+deploy 1 riot van from the staging area 
+to the highest police ID district that 
+has 1 or more riot cops, but no riot 
+van. There can never be more than 1 
+riot van in any district. If there are no 
+more riot vans in the staging area or 
+there are already 4 riot vans deployed, 
+nothing happens.
+
+Tactical Retreat: All solo riot cops 
+return to the staging area. Solo riot 
+cops in the same districts as riot vans 
+or in clashes hold their position.
+
+Maneuvers: Reposition all riot vans 
+in the city to the districts with the 
+highest police IDs that have a riot van 
+or at least 1 riot cop. Do not deploy 
+
+additional riot vans from the staging 
+area. Do not place 2 riot vans in the 
+same district. If there are 3 riot vans 
+in the city, reposition them to the 3 
+districts with the highest police IDs 
+that have a riot van or at least 1  
+riot cop.
+
+Metro Lockdown: Factions are not 
+allowed to use metro stations for 24 
+hours. Place this card in front of the 
+faction to your left and discard at the 
+end of their next turn.
+
+Chief of Police Fired: Set the Chief 
+of Police Fired card aside. Shuffle 
+all remaining cards in the police ops 
+deck with all the cards in the police 
+ops discard pile to form a new police 
+ops deck. Place the Chief of Police 
+Fired card as the first card in the new 
+discard pile.
+
+BLOC BY BLOC
+
+PAGE 13
+
+GAMEPLAY: SUNRISE
+
+After all factions have taken their turns, the Sunrise phase begins. Sunrise is made up of 3 steps.
+
+Sunrise Step 1. Police Repression
+
+Any bloc or occupation in the same district as riot cops or riot vans at Sunrise is in danger.  
+Perform the following in order:
+
+A. Repair Riot Vans
+
+All riot vans that were damaged but not destroyed during the 
+night are repaired and reset to their original upright position.
+
+or
+
+reset to:
+
+flipped on side
+
+flipped over
+
+original position
+
+B. Riot Vans Attack
+
+All riot vans defeat all blocs and evict 
+occupations built in the same district. 
+Factions place defeated blocs and 
+evicted occupations back on their  
+faction mats.
+
+C. Riot Cops Attack
+
+Each riot cop attacks once: 
+
+• Riot cops always prioritize attacking 
+
+blocs before occupations. When a 
+riot cop attacks a bloc, the bloc is 
+defeated and the faction places the 
+bloc back on their faction mat.
+
+• If there are no blocs for a riot cop 
+
+to attack, it will attack occupations. 
+When a riot cop attacks an occupa-
+tion, the occupation is evicted and the 
+faction places the occupation back on 
+their faction mat.
+
+• If blocs from more than one faction 
+
+are in a district when riot cops attack, 
+then the faction with the most blocs 
+in the district decides which blocs are 
+defeated. If two or more factions are 
+tied for the most blocs in the district, 
+then the tiebreaker is which faction 
+took their turn first that night.
+
+• After attacking, riot cops stay in the 
+
+district. They do not return to the 
+staging area.
+
+Neither riot vans nor riot cops 
+dismantle barricades during the 
+
+Police Repression step.
+
+PAGE 14
+
+Example: A riot van in a Public 
+district defeats 2 blocs and evicts  
+the occupation.
+
+Example: 3 riot cops defeat  
+
+3 different blocs.
+
+Example: 1 riot cop evicts a  
+
+Students occupation.
+
+Example: 2 riot cops defeat 2 Workers 
+
+Example: 3 riot cops defeat 2 Neighbors 
+
+blocs, but the occupation survives.
+
+blocs and evicts the occupation.
+
+Example: The Prisoners faction has the most 
+blocs in the district and decides that 2 riot cops 
+defeat 1 Neighbors bloc and 1 Prisoners bloc. 
+
+BLOC BY BLOCSUNRISE
+
+Sunrise Step 2. District Liberation
+
+After Police Repression, factions have the opportunity to 
+permanently liberate districts. When a district is liberated:
+
+• The district difficulty is reduced by 1
+• The occupation in the district gains its liberated ability
+• Factions draw the manifestation card hidden underneath
+• The manifestation card always reduces police morale
+
+Liberation is not an action that factions can take during 
+their turns. Liberation happens automatically if these two 
+conditions are met during this Sunrise step:
+
+1 The district must have an occupation built in it. Districts 
+
+without an occupation circle, such as Commercial districts, 
+cannot be liberated.
+
+2 The combined total number of blocs from all factions in 
+that district must be equal to or greater than double the 
+district’s difficulty.
+
+How to Liberate a District
+
+A. Clear the district: Remove all loot tokens and place 
+them back in the loot token pile. Set aside the blocs and the 
+occupation. Do not return them to faction mats. 
+
+B. Draw the manifestation card: Pick up the district tile. Do 
+not change the district’s orientation. Pick up the manifesta-
+tion card underneath the district tile.
+
+C. Flip the district: Flip the district tile over so that the 
+liberated side is now face up. Make sure to flip the district 
+tile according to the direction arrow below the police ID to 
+ensure that the district’s orientation is not changed after 
+liberation. Put the blocs and occupation back on the district.
+
+D. Resolve the manifestation card: Read the manifestation 
+card out loud. After resolving it, put it back in the game box.
+
+BEFORE
+
+AFTER
+
+MaSS looting
+
+Each liberating faction may draw:
+
+LIBERATED
+DISTRICT
+
+DIFFICULTY:
+
+2
+3
+4
+5
+
+1 loot card
+
+2 loot cards
+
+3 loot cards
+
+3 loot cards
+
+-1 POLICE
+
+MORALE
+
+MANIFESTATION
+
+Example: The Prisoners have built an occupation 
+
+in a district with a difficulty of 4. 8 blocs are in 
+
+the district, the minimum required for liberation, 
+so the district is liberated and the Mass Looting 
+
+manifestation card is drawn. 
+
+Continued: Prisoners, Neighbors, and Students blocs helped to 
+
+liberate the district, so those factions each receive the benefit from 
+the manifestation card based on the difficulty on the liberated side 
+of the district tile. In this case, the benefit is 2 free loot cards for 
+each liberating faction. Police Morale is also lowered by 1 step.
+
+Manifestation Cards: Each manifestation card unleashes  
+a unique event that immediately benefits the factions.  
+Manifestation cards always reduce police morale and they 
+are the only way to reduce police morale.  
+
+Most manifestation cards provide extra benefits to the  
+liberating factions that have blocs in the district when the 
+liberation occurs. In general, the higher the district’s  
+difficulty, the better the benefit.
+
+“Liberated District Difficulty” refers to the difficulty  
+
+on the liberated side of the district tile.
+
+If two or more manifestation cards revealing police ops 
+cards are drawn in the same Sunrise, reveal the total 
+
+sum of police ops cards from both manifestations.
+
+Sunrise Step 3. Next Night?
+
+Check to see if any of the endgame conditions have been met (see page 16).  
+If so, the game ends immediately. If not, pass the first faction marker to the left, 
+move the countdown marker forward, and begin the next night. If there are no 
+more nights, time runs out and the military arrives.
+
+PAGE 15
+
+BLOC BY BLOCWINNING & LOSING
+
+During the Next Night step of Sunrise, the game can end for the following reasons:
+
+The Insurrection is Successful
+
+The insurrection is successful if all State districts have occupations built in them. 
+
+• Any faction can build occupations in any of the State districts. 
+• State districts do not need to be liberated.
+• State districts may have riot cops in them, as long as the riot cops did not evict 
+
+the occupation during the preceding Police Repression step.
+
+Any faction that completes the objectives on a “Win Cooperatively” agenda card 
+option wins together. Multiple factions can win together.
+
+When playing fully cooperatively: All factions win together.
+
+The military is forced into action, 
+deploying troops to the streets in 
+extremely complicated conditions 
+that are not in its favor. A massacre 
+is avoided and the revolutionaries 
+stand their ground. A tense stalemate 
+ensues. The liberated zones of the 
+insurrection remain autonomous and 
+vibrant with potential. Suddenly, it 
+seems anything is possible...
+
+One Faction Wins Alone
+
+Any faction that completes the 
+objectives on a “Win Alone” agenda 
+card option ends the game. They win 
+by themselves and all other factions 
+lose. Multiple factions pursuing “Win 
+Alone” agenda card options cannot 
+win together. If 2 or more factions 
+simultaneously complete their “Win 
+Alone” agenda card options, the 
+game continues.
+
+Vanguardist & Sectarian: The chaos of the insurrection evaporates as your 
+forces sweep into power. The city is yours. The military agrees to pull back on the 
+condition that your faction re-establishes law and order. What becomes of the 
+other defeated factions is not your concern.
+
+Nihilist: There is no going back. Time itself loses all meaning. Deluded by  
+their dreams of revolution, the other factions cower in fear as fire consumes  
+everything. What does it matter if the military arrives to secure their precious 
+city? They will find only ashes.
+
+Any Faction Has Zero Blocs in the City
+
+If any faction has zero blocs in the 
+city, all factions lose and agenda 
+cards are ignored.
+
+The insurrection implodes. Local police forces have no trouble restoring their 
+authority and brutally crushing the last scattered remnants of the weakening 
+revolt. All is lost.
+
+Time Runs Out & The Military Arrives
+
+If none of the above endgame condi-
+tions have been met and there are no 
+more nights, then time runs out and 
+the military enters the city. The insur-
+rection is not successful. All factions 
+lose and agenda cards are ignored.
+
+The military launches repressive counter-insurrection operations on its own 
+terms. Helicopters fill the skies as assault teams cordon off districts of the city 
+and conduct brutal house-to-house raids. Many revolutionaries disappear and 
+a wave of reactionary violence scares all remnants of the insurrection off the 
+streets and into hiding. Years of sadness follow.
+
+PAGE 16
+
+BLOC BY BLOCREFERENCE
+
+Occupation Abilities
+
+Each occupation you build in the city gives you an ongoing 
+ability that you can use each turn. All factions have 3 occu-
+pations that are identical and 2 that are unique. Occupations 
+
+in liberated districts gain their liberated abilities. You may 
+use an occupation’s ability as soon as it has been built. Only 
+the faction that built the occupation may use its ability.
+
+Common Occupations
+
+Faction Start
+
+Assembly Hall
+
+People’s Kitchen
+
+At the start of your turn, before rolling 
+action dice, form 1 bloc in the district 
+where this occupation is built.
+
+Use an action die of any value to form 1 
+bloc in the district where this occupa-
+tion is built. You may use this ability 
+once per turn. Liberated Ability: You 
+may use this ability twice per turn.
+
+When you roll a 6 on any of your 
+reaction rolls, immediately roll 1 extra 
+action die. Use this extra action die 
+during this turn. You cannot save it for 
+another turn. Liberated Ability: When 
+you roll a 6 on any of your reaction rolls, 
+immediately roll 2 extra action dice.
+
+Prisoners Occupations
+
+Workers Occupations
+
+Molotov Factory
+
+Strike Hall
+
+When you use a Molotovs loot card, increase its strength  
+by an additional +2. A +1 Molotovs becomes a +3 Molotovs 
+and so on. You may use this ability once per turn.  
+Liberated Ability: You may use this ability twice per turn.
+
+Scavenger’s Hideout
+
+For each loot action you take, draw 3 loot cards. Choose 2 to 
+keep and discard the third. Liberated Ability: For each loot 
+action you take, draw and keep 3 loot cards.
+
+Neighbors Occupations
+
+Guerrilla Garden 
+
+Build 3 barricades using 1 action die around the district 
+where this occupation is built. Liberated Ability: You may 
+also use this ability when building barricades around all 
+districts of this type.
+
+Comrade Cafe 
+
+Graffiti loot actions at all shopping centers become basic 
+actions for you. Basic actions can be completed using an 
+action die of any value and do not require a reaction roll.
+Liberated Ability: Burn loot actions also become basic 
+actions for you.
+
+Building and swapping occupations become basic actions 
+for you in the district where this occupation is built and in 
+adjacent districts. Basic actions can be completed using 
+an action die of any value and do not require a reaction 
+roll. Liberated Ability: You may also use this ability in all 
+districts of this type.
+
+Propaganda Workshop
+
+Draw 1 free loot card at any time during each turn without 
+using an action die. Liberated Ability: Draw 2 free loot 
+cards each turn.
+
+Actions to build and swap occupations using the Strike 
+Hall can still be stopped by another faction if that faction 
+
+has the most blocs in the district where the action is 
+
+taking place. See page 11 for details.
+
+Students Occupations
+
+Social Center
+
+Take 1 free movement action each turn without using an 
+action die. Liberated Ability: Take 2 free movement actions 
+each turn.
+
+Hacker Space
+
+Loot actions using the Comrade Cafe can still be 
+
+stopped by another faction if that faction has the most 
+blocs in the district where the action is taking place. See 
+
+page 11 for details on how to stop advanced actions.
+
+Use an action die of any value to draw 2 loot cards. Choose 
+1 to keep and discard the other. You may use this ability at 
+any time during each turn. Liberated Ability: You may use 
+this ability twice per turn.
+
+BLOC BY BLOC
+
+PAGE 17
+
+10 SCENARIO MINI EXPANSION
+
+The 10 scenario mini expansion includes 10 unique insurrection scenarios and 4 
+special district tiles. Each scenario forces factions to re-think existing strategies 
+in order to achieve new insurrectionary goals, often under unfamiliar conditions 
+or while facing increasingly hostile police.
+
+To setup for 2 or 4 players: Follow the usual setup steps on page 2. Then, modify 
+the setup as specified in the scenario.
+
+To setup for 3 players: Do not follow the usual 3 player setup steps on page 2. 
+Instead, use the 4 player setup steps on page 2. Then, modify the setup for 3 
+players as specified in the scenario.
+
+Object of the scenario: 
+
+In each scenario, factions must 
+complete a unique objective that is 
+different from the base game objective 
+for the insurrection to be successful. 
+All other rules for winning and losing 
+the game still apply.
+
+Autonomous Zone:  
+
+Community Defense HQ
+
+Autonomous Zone:  
+Communal Gardens
+
+Mega Mall
+
+Highway Overpass
+
+ROUTINE TRAFFIC STOP
+
+Fully Cooperative Only
+Intermediate Difficulty
+
+ABOLISH THE POLICE
+
+Fully Cooperative Only
+Intermediate Difficulty
+
+The insurrection is successful if: Barricades have been 
+built at all highway entrances in the city.
+
+The insurrection is successful if: All 6 riot vans have been 
+destroyed and there are no riot cops left in the city.
+
+Modified setup: Follow the usual setup steps on page 2. 
+Replace the Commercial district tile (police ID #1) with the 
+Highway Overpass district tile. Place 5 riot cops total next to 
+each riot van. Move the countdown marker to 6 nights left. 
+Do not use the agenda deck.
+
+3 Players: Use the modified setup above. Move the 
+countdown marker to 8 nights left.
+
+BURN DOWN THE COMPANY TOWN
+
+Fully Cooperative Only
+Intermediate Difficulty
+
+The insurrection is successful if: All shopping centers in all 
+Commercial districts have been burned down.
+
+Modified setup: Follow the usual setup steps on page 2, 
+except do not deploy police as usual. Instead, replace the 
+Interior Ministry district tile with the Mega Mall district 
+tile. Place 1 riot van in each State district and 1 riot van in 
+the Mega Mall. Place 4 riot cops total next to each riot van. 
+Move the countdown marker to 6 nights left. Do not use the 
+agenda deck.
+
+3 Players: Use the modified setup above. Move the 
+countdown marker to 8 nights left.
+
+Modified setup: Follow the usual setup steps on page 2, 
+except do not deploy police as usual. Instead, place 1 riot 
+van in each of the following districts: Telecom Network Hub, 
+The Park, The Projects, The Old Polytechnic, Smartphone 
+Factory, and Immigrant Detention Center. Place 3 riot cops 
+next to each riot van. Each faction places 3 blocs total next 
+to their Start occupation. Remove both Emergency Rein-
+forcements cards from the police ops deck. Do not use the 
+agenda deck.
+
+3 Players: Use the modified setup above. Each faction 
+places 4 blocs total next to their Start occupation.
+
+OCCUPY EVERYTHING
+
+Fully Cooperative Only
+Intermediate Difficulty
+
+The insurrection is successful if: All factions have built 
+occupations in all of their own districts.
+
+Modified setup: Follow the usual setup steps on page 2. 
+Each faction places 3 blocs total next to their Start occu-
+pation. Move the countdown marker to 6 nights left. Do not 
+use the agenda deck.
+
+PAGE 18
+
+BLOC BY BLOCM
+
+I
+N
+
+I E
+
+X
+
+P
+
+A
+
+N
+
+S
+I
+O
+
+N
+
+ASYMMETRICAL STRUGGLE
+
+LET THE INFIGHTING BEGIN!
+
+Semi-Cooperative or Fully Cooperative
+Intermediate Difficulty
+
+Semi-Cooperative Only
+3 or 4 Players Only, Expert Difficulty
+
+The insurrection is successful if: Each faction has built an 
+occupation in 1 State district or built occupations in all of 
+their own districts.
+
+Modified setup: Follow the usual setup steps on page 2. 
+Place 4 riot cops total next to each riot van. When playing 
+semi-cooperatively, remove the Nihilist card from the 
+agenda deck.
+
+3 Players: Use the modified setup above. Replace the 
+Financial District tile with The Stadium district tile. Place 1 
+riot van and 4 riot cops in The Stadium.
+
+COLLECTIVE LIBERATION
+
+Fully Cooperative Only
+Expert Difficulty
+
+The insurrection is successful if: All State districts have 
+occupations built in them by any combination of factions.
+
+Modified setup: Follow the usual setup steps on page 2, 
+except do not deploy police as usual. Instead, replace the 
+Financial District tile with the Mega Mall district tile. Place 
+1 riot van in each State district and 1 riot van in The Park 
+district tile. Place 4 riot cops next to each riot van. Each 
+faction places 3 blocs total next to their Start occupation. 
+Move the countdown marker to 6 nights left.
+
+Set aside the Nihilist and Vanguardist agenda cards. Shuffle 
+the remaining agenda cards and set aside 1 card per faction 
+face down. Put the rest of the agenda cards back in the 
+game box without looking at them. Shuffle the Nihilist and 
+Vanguardist cards with the set aside cards and deal 1 card 
+to each faction. Put the remaining agenda cards back in the 
+game box without looking at them.
+
+The insurrection is successful if: 10 districts have  
+been liberated.
+
+3 Players: Use the modified setup above. Each faction 
+places 4 blocs total next to their Start occupation.
+
+Modified setup: Follow the usual setup steps on page 2, 
+except do not deploy police as usual. Instead, place 1 riot 
+van in each of the following districts: Telecom Network Hub, 
+Financial District, The Park, and The Plaza. Place 3 riot 
+cops next to each riot van. Each faction places 2 blocs total 
+next to their Start occupation. Do not use the agenda deck.
+
+3 Players: Use the modified setup above. Each faction 
+places 4 blocs total next to their Start occupation.
+
+AUTONOMOUS ZONE PHASE I
+
+Semi-Cooperative or Fully Cooperative
+Expert Difficulty
+
+The insurrection is successful if: All State districts have 
+occupations built in them by any combination of factions.  
+No faction can win if there are police in either of the  
+Autonomous Zones.
+
+Modified setup: Follow the usual setup steps on page 
+2, except do not deploy police as usual. Instead, replace 
+the Financial District tile with the Community Defense 
+HQ district tile. Replace The Park district tile with the 
+Communal Gardens district tile. Place 1 riot van in each 
+State district and 1 riot van in The Plaza district. Place 3 riot 
+cops next to each riot van. Each faction places 3 blocs total 
+next to their Start occupation. Move the countdown marker 
+to 6 nights left.
+
+3 Players: Use the modified setup above. Move the 
+countdown marker to 8 nights left.
+
+SMASH THE STATE
+
+Semi-Cooperative or Fully Cooperative
+Expert Difficulty
+
+The insurrection is successful if: All State districts have 
+occupations built in them by any combination of factions 
+and all State districts have been liberated.
+
+Modified setup: Follow the usual setup steps on page 2. 
+Place 4 riot cops total next to each riot van.
+
+3 Players: Use the modified setup above. Replace the 
+Financial District tile with The Stadium district tile. Place 1 
+riot van and 4 riot cops in The Stadium.
+
+AUTONOMOUS ZONE PHASE II
+
+Fully Cooperative Only
+2 or 4 Players Only, Expert Difficulty
+
+The insurrection is successful if: All districts adjacent to 
+both Autonomous Zone district tiles have been liberated and 
+there are no police in either Autonomous Zone.
+
+Modified setup: Follow the usual setup steps on page 2. 
+Replace The Park district tile with the Communal Gardens 
+district tile. Replace 1 highway district tile with the 
+Community Defense HQ district tile. Place 4 riot cops total 
+next to each riot van. Each faction places 2 blocs total next 
+to their Start occupation. Do not use the agenda deck.
+
+PAGE 19
+
+BLOC BY BLOCBLOC BY BLOC: THE INSURRECTION GAME 
+
+VERSION 1.0 NOVEMBER 2016
+
+Component List
+
+• 40 Wooden Blocs, 10 per faction in four colors
+• 30 Wooden Riot Cops, white
+• 6 Wooden Riot Vans, white
+• 40 Wooden Barricades, gray
+• 1 Wooden Police Morale Marker, white
+• 1 Wooden Countdown Marker, white
+• 60 Loot Cards
+• 34 Police Ops Cards
+• 10 Agenda Cards
+• 28 Manifestation Cards
+• 30 Chipboard District Tiles
+• 20 Chipboard Occupations Tokens, 5 per faction
+• 42 Chipboard Loot Tokens
+• 1 Chipboard Countdown Panel 
+• 1 Chipboard Police Morale Panel
+• 4 Chipboard Faction Mats
+• 1 Chipboard First Faction Marker 
+• 7 Action Dice, black 
+• 1 Reaction Die, white
+• 1 Rulebook
+• 4 Cheatsheets
++ 1 Special Edition Zine
+
+Special Thanks: AK Press, All Kickstarter Backers, Barry Kendall, 
+Ben Simons, Bruce & Ian Paul, Charlie Furman, Clove & Raskl wsp, 
+Cory Doctorow, Dave Hage, DDO Players, Disgruntled Gamers  
+Coalition, Elizabeth Sy, Filastine, Global Uprisings, Greenbriar, 
+Hunter, It’s Your Move, Jason Laske, Jay at Copy Central, Jen Angel, 
+Karlee Esmailli, Mary Beth Schuler, Max Bittman, Moxie, Nick Haas,  
+Sakura & Darius, Sherief Gaber, Syd, Victory Point Cafe, Vivian 
+Brown, Yumi Havemeyer
+
+Playtesters: Aaron Rhodes, Aaron Todd, Adriane Bovone, Alexis, 
+Alfred Twu, Andrew Wan, Andy Voellmer, April Thomas, April Walsh, 
+Aragorn!, Ash Lynette, Ayr, Bea Flowers, Becca Beddingfield, Becky 
+Rhodes, Beegee, Ben Allen, Brian Helmle, Burpasaurus, Carter Lavin, 
+Chris Adams, Chris Reiner, Christopher Chun, Cosmo, CrimethInc, 
+Darius Aliabadi, David McCracken, Debbie, Doug Williams, Dr Alana 
+Svetlana, Dustin Boyle, Eliot Miller, Elizabeth Fraser, Elizabeth 
+Turner, Emily, Erica Maharg, Erich Guglielmelli, Ginny Browne, 
+Hannah Rogge, Heather Tzang, Ian Campbell, Isabelle Luebbers, 
+Jamie Graham, Jasper Bernes, Jay Billz, Jazz Lyles, Jim McCollum, 
+Joe Feldman, John Treviranus, Joshua Muscat, Justin Dunlap, Justin 
+Hinojoza, Kassia Korkus, Kelly Iknayan, Kenneth Hoppe, Lea Grunde, 
+Lee Reis, Liam Odonoghue, Lynisha Perkins, Mabel Lam, Magpie, 
+Mara Schechter, Margaret Mary Downey, Mark & Ashleigh Halverstadt, 
+Mark Burdett, Mark Galpin, Mary Virginia Watson, Max Harris, Max 
+Lee, Melody Lee, Michael McCown, Nicole Puller, Noah, Ophir Bruck, 
+Paolo, Patrick, Paul Bissember, Paul Jones, Peppy, Pete Kobylarz,  
+Raquel, Rebecca Berzof, Regan Brashear, Reneé Lepreau, Rob 
+Connell, Ryan Casey, Sadie Joy, Sarah Jo Szambelan, Sarah Shourd, 
+Sarolta Jane, Sheila Seles, Soraya Okuda, Tabatha Joseph, Ted, Ted 
+Tagami, Tim Minezaki, Tobias Smith, Tom Denton, Tom Fosse, Tori 
+Partridge, Vanessa Chen, Virgil Maro, West
+
+Bloc by Bloc: The Insurrection Game by Out of Order Games 
+is licensed under a Creative Commons Attribution- 
+NonCommercial-ShareAlike 4.0 International License.
+
+A PROJECT OF
+
+outofordergames.com
+
+
